@@ -6,7 +6,9 @@ Guía de desarrollo del Reconocedor de Patentes
  https://drive.google.com/file/d/1vd7EZrH0atovymUvGdCMIu5IdBk8NKv2/view?usp=sharing
 
 	Descomprimir el archivo .zip. Iniciar sesión en Google Drive y cargar la carpeta “Esbiza_Proyecto_de_Grado” en su directorio principal de Drive.
+ 
 	Abrir desde Google Drive el archivo “Reconocedor_de_Patentes.ipynb” con Google Colab. Para esto debemos seguir los siguientes pasos:
+ 
 1.	Dar doble clic sobre Reconocedor_de_Patentes.ipynb.
 2.	Clicar en “Abrir con”, y luego en “Conectar más aplicaciones”.
 3.	En “Buscar aplicaciones” colocamos “Colaboratory”.
